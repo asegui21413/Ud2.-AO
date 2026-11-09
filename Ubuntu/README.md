@@ -2,7 +2,7 @@
 
 Sis plantilles de documents administratius en format **.odt** (LibreOffice Writer).
 
-## Carpeta `Ubuntu/WPS Office`
+## Carpeta `Ubuntu/Abi Word`
 
 | Fitxer | Tipus de document |
 |--------|-------------------|
