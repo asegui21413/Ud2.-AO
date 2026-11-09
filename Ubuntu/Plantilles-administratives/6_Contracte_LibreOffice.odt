@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:styles>
+  <style:style style:name="Standard" style:family="paragraph">
+   <style:paragraph-properties fo:margin-top="0.2cm" fo:margin-bottom="0.2cm"/>
+   <style:text-properties style:font-name="Liberation Serif" fo:font-size="12pt"/>
+  </style:style>
+  <style:style style:name="Heading" style:family="paragraph">
+   <style:paragraph-properties fo:text-align="center" fo:margin-top="0.4cm" fo:margin-bottom="0.4cm"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-size="16pt" fo:font-weight="bold" fo:color="#1a5276"/>
+  </style:style>
+ </office:styles>
+ <office:body>
+  <office:text>
+   <text:h text:style-name="Heading" text:outline-level="1">CONTRACTE de compravenda d’habitatge</text:h>
+   <text:p text:style-name="Standard">Contracte de compravenda d’habitatge</text:p>
+   <text:p text:style-name="Standard">D’una part, la senyora Magdalena Pons Sales, amb DNI núm. 41.333.555-X, com a part venedora.</text:p>
+   <text:p text:style-name="Standard">I de l’altra, el senyor Jesús Amengual Florit, amb DNI núm. 25.252.525-Y, com a part compradora.</text:p>
+   <text:p text:style-name="Standard">MANIFESTEN que la venedora és propietària de l’habitatge situat al carrer de Ferreries, 33 de Maó, lliure de càrregues.</text:p>
+   <text:p text:style-name="Standard">PACTES: El preu és de 120.000 euros (20.000 € a la signatura i 100.000 € a l’escriptura pública). Termini de 60 dies per a l’escriptura. Despeses a càrrec del comprador excepte plusvàlua.</text:p>
+   <text:p text:style-name="Standard">Maó, 5 de novembre de 2026</text:p>
+   <text:p text:style-name="Standard">La venedora - Magdalena Pons Sales</text:p>
+   <text:p text:style-name="Standard">El comprador - Jesús Amengual Florit</text:p>
+  </office:text>
+ </office:body>
+</office:document>
